@@ -52,6 +52,15 @@ An RScript is written for three t-tests that compare each manufacturing lot agai
 
 There is a summary of the t-test results across all manufacturing lots and for each lot
 
+![](Resources/D3.1.png)
+
+----
+
+![](Resources/D3.2.png)
+
+----
+
+![](Resources/D3.3.png)
 
 **Deliverable 4 Requirements**
 
