@@ -36,7 +36,8 @@ You will earn a perfect score for Deliverable 1 by completing all requirements b
 - An RScript is written to create the statistical summary of the linear regression model with the intended p-values (10 pt)
 
 - There is a summary that addresses all three questions (5 pt)
-
+![](Resources/D1.1.png)
+![](Resources/D1.2.png)
 
 The image above shows that vehicle length, vehicle ground clearance 
 
@@ -59,12 +60,19 @@ Deliverable 2 Requirements
 
 - There is a summary that addresses the design specification requirement for all the manufacturing lots and each lot individually (5 pt)
 
+![](Resources/D2.1.png)
+![](Resources/D2.2.png)
+![](Resources/D2.3.png.png)
+
 **Deliverable 3: T-Tests on Suspension Coils**
 Deliverable 3 Requirements
 
 - An RScript is written for t-test that compares all manufacturing lots against mean PSI of the population (5 pt)
 - An RScript is written for three t-tests that compare each manufacturing lot against mean PSI of the population (10 pt)
 
+![](Resources/D3.1.png)
+![](Resources/D3.2.png)
+![](Resources/D3.3.png)
 
 - There is a summary of the t-test results across all manufacturing lots and for each lot (5 pt)
 The true mean of the sample is 1498.78, which we also saw in the summary statistics above. With a p-Value of 0.06, which is higher than the common significance level of 0.05, there is NOT enough evidence to support rejecting the null hypothesis. In other words, the mean of all three of these manufacturing lots is statistically similar to the presumed population mean of 1500.
